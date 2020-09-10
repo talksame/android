@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="myname">물의 여행</string>
+    <string name="mybutton">시작하기</string>
+</resources>
